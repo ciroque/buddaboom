@@ -27,7 +27,7 @@ This template includes all the scaffolding you need to get started on a Go HTTP 
 [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 
 
-# {{REPOSITORY_NAME}}
+# buddaboom
 
 This project is intended to serve three purposes:
 - Provide a template for creating HTTP Servers in Go
@@ -151,10 +151,10 @@ docker rmi bhs:dev
 
 ## Contributing
 
-    Please see the [contributing guide](https://github.com/{{REPOSITORY_OWNER}}/{{REPOSITORY_URL}}/blob/main/CONTRIBUTING.md) for guidelines on how to best contribute to this project.
+    Please see the [contributing guide](https://github.com/ciroque/buddaboom/blob/main/CONTRIBUTING.md) for guidelines on how to best contribute to this project.
 
 ## License
 
-[Apache License, Version 2.0](https://github.com/{{REPOSITORY_OWNER}}/{{REPOSITORY_URL}}/blob/main/LICENSE)
+[Apache License, Version 2.0](https://github.com/ciroque/buddaboom/blob/main/LICENSE)
 
-&copy; {{REPOSITORY_OWNER}} 2023
+&copy; ciroque 2023
